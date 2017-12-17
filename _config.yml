@@ -1,10 +1,8 @@
 title: Matt Campbell
 email: matthewcampbell508@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal site containing ramblings as a professional web developer. I mainly work with backend like PHP (Laravel)
-  and I have also have frontend experience.
-
-  I have a passion for trying to share knowledge.
+  My personal site containing ramblings as a professional web developer. I mainly work with backend programming languages like PHP (Laravel)
+  and I have also have frontend experience. I have a passion for trying to share knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mcampbell508.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mcampbell508
