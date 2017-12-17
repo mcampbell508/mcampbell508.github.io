@@ -1,2 +1,2 @@
 # mcampbell508.github.io
-Persona Site
+My Personal GitHub based site
