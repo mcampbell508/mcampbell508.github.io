@@ -1,0 +1,83 @@
+Matt Campbell
+============
+
+----
+
+>>>
+I am a highly dedicated and extremely hard-working web developer with 3 years commercial development experience
+working with the Laravel framework. I graduated with a 2:1 in BSc (Hons) Computing at Plymouth University in September 2013.
+>>>
+
+----
+
+Profile
+-------
+- Strong communication skills, both written and verbally.
+- Experience liaising with clients, trying to come up with the best solutions for the client.
+- Well-developed I.T skills combined with a flexible approach to work.
+- Have initiative and capable of improvising where necessary.
+- Good people skills and can develop great working relationships.
+- I believe I possess a positive attitude and have a passion for expanding my knowledge.
+
+Education
+---------
+
+2011-2013
+:   **BSc, Computing**; University of Plymouth (2:1)
+
+    - *Final year project **(First Class Grade)**: PHP based web application – tool for communication between project group peers*
+    - *Group project **(First Class Grade)** – As a group we developed a multi-platform photo sharing system.*
+
+2009-2011
+:   **HND, Computing (Level 5)**; Uxbridge College
+:   **GCSE English (B)**; Uxbridge College
+:   **CCNA Networking Academy - Semesters 1 & 2 (Pass)**; Uxbridge College
+
+GCSE Maths A.
+
+Received Higher Education award - presented at the [Uxbridge College awards ceremony 2011](http://www.uxbridge.ac.uk/college-news-a-events/414-september-2011/3396-annual-awards-winners-honoured-by-the-apprentices-melody-hossaini.html).
+
+Experience
+----------
+
+2015-present
+: **Shopworks** - Developer
+
+- Experience and passion for improving internal wiki documentation, which you can read about [here](https://mcampbell508.github.io/2017/12/17/recommended-documentation-for-a-web-team/).
+- Involved with undertaking code review for other team members.
+- Developed skills with automated deployments and DevOps with tools like Ansible.
+- Comfortable with new site setup and server administration.
+- Very comfortable with Git
+
+2014-2015
+: **YourParkingSpace** - Developer
+
+My first role as a professional developer, spending 9 months on this exciting product.
+
+- Day-to-day bug fixing, and implementing new feature requests.
+- Git experience improved, working in a pull request development cycle.
+- Always part of technical discussions within the team for on-going improvements.
+- Involved with migration to SSL site version.
+- Implementation of Stripe payments API within an instant payment system.
+
+Technical Experience
+--------------------
+
+Open Source
+
+- [Ansible role for installing PhpStorm](https://github.com/mcampbell508/ansible-phpstorm), which I developed to help automate the installation of new versions.
+
+Programming Languages / Skills
+:   **PHP:** Very confident with this language and the new features available in PHP 7.
+
+:   **Markdown:** Very comfortable writing with markdown. A key example of this is that my resume is written in markdown and then converted to HTML, PDF and other formats.
+
+:   **Ansible:** A lot of experience with this tool in terms of provisioning and using it for deployments.
+
+:   Basic knowledge of **VueJS**, **React JS**
+
+----
+
+> <matthewcampbell508@gmail.com>
+> Uxbridge, Middlesex \
+> [https://mcampbell508.github.io](https://mcampbell508.github.io)
