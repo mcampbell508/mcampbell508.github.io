@@ -24,3 +24,11 @@ $this->ramble();
 - Advanced knowledge of Git
 - Improving developer knowledge via documentation (wikis)
 - Markdown and YAML experience
+
+## Site Info
+
+This site is a personal blog written in markdown and [Jekyll](https://jekyllrb.com/).
+
+Currently I am using the [lanyon](https://github.com/poole/lanyon) theme which was created by [Mark Otto](https://github.com/mdo).
+
+[Here](https://github.com/mcampbell508/mcampbell508.github.io) is the GitHub repository for this site and you can find a version controlled resume :-)
