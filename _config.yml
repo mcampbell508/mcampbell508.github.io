@@ -1,18 +1,47 @@
+# TODO: add redcarpet extensions when becomming comfortable with markdown
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+plugins:
+- jekyll-feed
+
+# Permalinks
+permalink:           pretty
+
+# Setup
+tagline:             'Matt Campbell's personal site'
+url:                 mcampbell508.github.io
+baseurl:             '/'
+# Use paginate to set the number of pages shown
+paginate:            5
+
+excerpt_separator: '<br>'
+
+version:          1.0.0
+
+author:
+name: 'Matt Campbell'
+github: mcampbell508
+
+# Custom vars
+#version:          1.0.0
+
+github:
+  repo: https://github.com/mcampbell508/mcampbell508.github.io
+
+curriculum_vitae: https://github.com/mcampbell508/mcampbell508.github.io/blob/master/_site/resume.pdf
+
 title: Matt Campbell
 email: matthewcampbell508@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal site containing ramblings as a professional web developer. I mainly work with backend programming languages like PHP (Laravel)
   and I have also have frontend experience. I have a passion for trying to share knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mcampbell508.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mcampbell508.github.io"
 twitter_username: mcampbell508
 github_username:  mcampbell508
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
