@@ -25,8 +25,8 @@ Education
 2011-2013
 :   **BSc, Computing**; University of Plymouth (2:1)
 
-    - *Final year project **(First Class Grade)**: PHP based web application – tool for communication between project group peers*
-    - *Group project **(First Class Grade)** – As a group we developed a multi-platform photo sharing system.*
+- *Final year project **(First Class Grade)**: PHP based web application – tool for communication between project group peers*
+- *Group project **(First Class Grade)** – As a group we developed a multi-platform photo sharing system.*
 
 2009-2011
 :   **HND, Computing (Level 5)**; Uxbridge College
@@ -43,16 +43,22 @@ Experience
 2015-present
 : **Shopworks** - Developer
 
-- Experience and passion for improving internal wiki documentation, which you can read about [here](https://mcampbell508.github.io/2017/12/17/recommended-documentation-for-a-web-team/).
+Throughout my time at Shopworks I have helped on-board several new developers into the team.
+
 - Involved with undertaking code review for other team members.
+- Vast experience with combining legacy code written in CodeIgniter with a more OOP style in Laravel.
+- Comfortable with a TDD approach to solving problems.
 - Developed skills with automated deployments and DevOps with tools like Ansible.
 - Comfortable with new site setup and server administration.
-- Very comfortable with Git
+- Very comfortable with Git and advanced features like pull request workflows, rebasing and following recommended [commit message guidelines](https://chris.beams.io/posts/git-commit/).
+- Experience and passion for improving internal wiki documentation, which you can read about [here](https://mcampbell508.github.io/2017/12/17/recommended-documentation-for-a-web-team/).
 
 2014-2015
 : **YourParkingSpace** - Developer
 
-My first role as a professional developer, spending 9 months on this exciting product.
+Starting as an intern for 3 months in my first development role, I was offered a permanent role after a very successful internship.
+Working in a small team, I established myself as a valued member of a close-knit team. Working with another co-developer, my duties included making day to day
+improvements to the company web application, fixing bugs and adding new features.
 
 - Day-to-day bug fixing, and implementing new feature requests.
 - Git experience improved, working in a pull request development cycle.
@@ -66,15 +72,16 @@ Technical Experience
 Open Source
 
 - [Ansible role for installing PhpStorm](https://github.com/mcampbell508/ansible-phpstorm), which I developed to help automate the installation of new versions.
+- [Personal blog and resume](https://github.com/mcampbell508/mcampbell508.github.io) are written in markdown and easily converted to multiple formats (HTML, Pdf, Doc)
 
 Programming Languages / Skills
 :   **PHP:** Very confident with this language and the new features available in PHP 7.
 
-:   **Markdown:** Very comfortable writing with markdown. A key example of this is that my resume is written in markdown and then converted to HTML, PDF and other formats.
-
 :   **Ansible:** A lot of experience with this tool in terms of provisioning and using it for deployments.
 
 :   Basic knowledge of **VueJS**, **React JS**
+
+- Laravel, CodeIgniter OOP, PHP 7, TDD, MySQL, DNS, Virtual Host, Apache, Ansible, Deployer PHP, Markdown, Ubuntu, CentOS, VirtualBox, Vagrant, Wikis, Bash, Git, Git Hooks
 
 ----
 
