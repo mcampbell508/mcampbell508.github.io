@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing Ruby for Jekyll (Ubuntu 16.04)"
 date:   2017-12-17 14:20:59 +0000
-categories: jekyll ruby ubuntu
+tags: jekyll ruby ubuntu
 ---
 
 I had to remove the current installed version as I ran into something similar to the following:

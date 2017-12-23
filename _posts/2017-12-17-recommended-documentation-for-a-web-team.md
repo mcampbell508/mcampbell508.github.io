@@ -2,7 +2,7 @@
 layout: post
 title:  "My experience and recommendations for internal documentation"
 date:   2017-12-17 15:20:59 +0000
-categories: documentation wiki developer team
+tags: documentation wiki developer team
 ---
 
 Here are some of my recommnendations for pages that could help improve overall knowledge, for new & current team members. Maybe you won't need all of them, as situations will differ from one team to another.
