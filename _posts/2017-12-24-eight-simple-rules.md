@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8 Simple Rules for a provocative developer environment"
-date:   2017-12-23 15:20:59 +0000
+date:   2017-12-24 15:20:59 +0000
 ---
 
 > The following "rules" are my opinions of what a developer environent should be like. This article assumes nothing!
