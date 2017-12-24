@@ -37,8 +37,15 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
-  font-size: 18px;            /* change here if I want to adjust the font-size */
-  overflow-x: hidden;
+  font-size: 18px;
+  height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.content {
 }
 
 html {
