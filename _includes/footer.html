@@ -5,10 +5,17 @@
     </h6>
     <div class="footer-social-icons">
         <ul class="social-icons">
-            <li><a href="https://github.com/mcampbell508" class="social-icon"> <i class="fa fa-github"></i></a></li>
-            <li><a href="https://twitter.com/mcampbell508" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
-            <li><a href="" class="social-icon"> <i class="fa fa-rss"></i></a></li>
+            {% for social_item in site.data.socialmedia %}
+            {% if social_item.url contains 'http' %}
+            {% assign domain = '' %}
+            {% else %}
+            {% assign domain = site.url %}
+            {% endif %}
+            <li><a href="{{ domain }}{{ social_item.url }}" rel="me" {% if social_item.url contains 'http' %} target="_blank" {% endif %} class="social-icons" title="{{ social_item.title }}" class="social-icon">
+                <i class="{{ social_item.class }} "></i>
+                </a>
+            </li>
+            {% endfor %}
         </ul>
     </div>
 </div>
-
