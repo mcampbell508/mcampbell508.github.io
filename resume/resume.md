@@ -4,8 +4,8 @@ Matt Campbell
 ----
 
 >>>
-I am a highly dedicated and extremely hard-working web developer with 3 years commercial development experience
-working with the Laravel framework. I graduated with a 2:1 in BSc (Hons) Computing at Plymouth University in September 2013.
+I am a highly dedicated and extremely hard-working web developer with 5 years commercial development experience
+working with PHP (Laravel) and tools like Ansible, Docker and Terraform. I graduated with a 2:1 in BSc (Hons) Computing at Plymouth University in September 2013.
 >>>
 
 ----
