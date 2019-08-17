@@ -8,10 +8,8 @@ Currently I am using the [lanyon](https://github.com/poole/lanyon) theme which w
 
 ## Serving the site locally
 
-```
-cd /path/to/repo
-bundle exec jekyll server
-```
+- Install Docker if not installed :-)
+- Run `docker-compose up` or `docker-compose up -d` for detached mode.
 
 Then visit http://127.0.0.1:4000/. Push to Github `master` branch to make changes public.
 

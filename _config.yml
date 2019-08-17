@@ -18,7 +18,7 @@ description: >-
   My personal site containing ramblings as a software developer. I mainly work with backend development with PHP (Laravel)
   and I have also have some DevOps experience with tools like Ansible, Terraform and Kubernetes. I have a passion for trying to share knowledge.
 baseurl: '/'
-url: "https://mcampbell508.github.io"
+url: "0.0.0.0" # For use with Docker
 twitter_username: mcampbell508
 github_username:  mcampbell508
 paginate: 5
