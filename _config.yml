@@ -23,6 +23,9 @@ twitter_username: mcampbell508
 github_username:  mcampbell508
 paginate: 5
 
+# Google Analytics
+google_analytics: UA-145878283-1
+
 author:
   name: 'Matt Campbell'
   github: mcampbell508
