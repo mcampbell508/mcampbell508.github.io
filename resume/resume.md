@@ -4,8 +4,8 @@ Matt Campbell
 ----
 
 >>>
-I am a highly dedicated and extremely hard-working web developer with 5 years commercial development experience
-working with PHP (Laravel) and tools like Ansible, Docker and Terraform. I graduated with a 2:1 in BSc (Hons) Computing at Plymouth University in September 2013.
+I am a highly dedicated software developer with 5 years commercial development experience
+working with PHP (Laravel) and in more recent years with tools like Ansible, Docker and Terraform. I graduated with a 2:1 in BSc (Hons) Computing at Plymouth University in September 2013 and started my professional career in 2014.
 >>>
 
 ----
@@ -13,11 +13,10 @@ working with PHP (Laravel) and tools like Ansible, Docker and Terraform. I gradu
 Profile
 -------
 - Strong communication skills, both written and verbally.
-- Experience liaising with clients, trying to come up with the best solutions for the client.
-- Well-developed I.T skills combined with a flexible approach to work.
-- Have initiative and capable of improvising where necessary.
 - Good people skills and can develop great working relationships.
+- A real believer of "do something manually twice, automate via scripting, if you can".
 - I believe I possess a positive attitude and have a passion for expanding my knowledge.
+- Experience working in an Agile team environment, with daily standups, sprint planning/refinement and retrospective meetings.
 
 Education
 ---------
@@ -48,8 +47,8 @@ Throughout my time at Shopworks I have helped on-board several new developers in
 - Involved with undertaking code review for other team members.
 - Vast experience with combining legacy code written in CodeIgniter with a more OOP style in Laravel.
 - Comfortable with a TDD approach to solving problems.
-- Developed skills with automated deployments and DevOps with tools like Ansible.
-- Comfortable with new site setup and server administration.
+- Developed skills with automated deployments and DevOps with tools like Ansible, Terraform and Docker.
+- Comfortable with new site setup and server administration, from server setup using Ansible, or things like SSL renewal.
 - Very comfortable with Git and advanced features like pull request workflows, rebasing and following recommended [commit message guidelines](https://chris.beams.io/posts/git-commit/).
 - Experience and passion for improving internal wiki documentation, which you can read about [here](https://mcampbell508.github.io/2017/12/17/recommended-documentation-for-a-web-team/).
 
@@ -78,6 +77,8 @@ Programming Languages / Skills
 :   **PHP:** Very confident with this language and the new features available in PHP 7.
 
 :   **Ansible:** A lot of experience with this tool in terms of provisioning and using it for deployments.
+
+:   **Docker:** A lot of experience with this tool in terms of provisioning and using it for deployments.
 
 :   Basic knowledge of **VueJS**, **React JS**
 
