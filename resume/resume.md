@@ -70,6 +70,8 @@ Technical Experience
 
 Open Source
 
+- [Git Review](https://theshopworks.gitlab.io/git-review/) - Creator and maintainer. Run tools like [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) and [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer) on only the changed files on a
+    commit or entire selection of commits on a Git branch. This is extemely useful for large projects, where the focus should be on the changes made in an MR/PR, rather than unrelated code style issues that have crept into `master`, causing a topic branch to fail.
 - [Ansible role for installing PhpStorm](https://github.com/mcampbell508/ansible-phpstorm), which I developed to help automate the installation of new versions.
 - [Personal blog and resume](https://github.com/mcampbell508/mcampbell508.github.io) are written in markdown and easily converted to multiple formats (HTML, Pdf, Doc)
 
