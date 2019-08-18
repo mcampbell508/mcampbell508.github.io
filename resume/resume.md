@@ -78,7 +78,7 @@ Programming Languages / Skills
 
 :   **Ansible:** A lot of experience with this tool in terms of provisioning and using it for deployments.
 
-:   **Docker:** A lot of experience with this tool in terms of provisioning and using it for deployments.
+:   **Docker:** I am aware of the importance of containers, and the role this can play with making scalable applications.
 
 :   Basic knowledge of **VueJS**, **React JS**
 
